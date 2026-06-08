@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/nishuai/nishuai.r-universe.dev
 	branch = HEAD
+[submodule "SeedMatchR"]
+	path = SeedMatchR
+	url = https://github.com/tacazares/SeedMatchR
+	branch = main
